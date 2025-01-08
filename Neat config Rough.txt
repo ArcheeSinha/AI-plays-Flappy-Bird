@@ -1,0 +1,6 @@
+INPUTS -- Bird.y,Top Pipe,Bottom Pipe
+OUTPUTS -- JUMP? 
+ACTIVATION FUNCTION -- Tan H 
+Population Size -- 100      
+Fitness Function -- distance
+Max Generations -- 30 
