@@ -62,7 +62,7 @@ The NEAT algorithm is configured using the `config-feedforward.txt` file. You ca
 When you run the project, you'll see birds trying to navigate through the pipes. Over time, they learn to avoid collisions and survive longer. The score and progress are displayed on the screen.
 
 ## Demo
-[Add a link or GIF showcasing the project in action.]
+
 
 ## Future Improvements
 - Add a user-controlled mode to compare human and AI performance.
